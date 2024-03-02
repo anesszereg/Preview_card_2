@@ -1,0 +1,99 @@
+#image{
+
+    height: 500px;
+    width: 50%;
+}
+
+
+section{
+
+    display: flex;
+    background-color: white;
+    width: 700px;
+    border-radius: 10px;
+    overflow: hidden;
+
+
+
+}
+.desciption{
+    padding: 25px;
+
+
+    width: 50%;
+}
+
+
+
+body{
+
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    background-color: hsl(30, 38%, 92%);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+.sub_title{
+
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color:  hsl(228, 12%, 48%);
+
+}
+
+
+.title{
+    font-size:40px;
+    width: 250px;
+    color: hsl(212, 21%, 14%);
+    font-weight: 700;
+    margin: 0;
+    font-family: "Fraunces", serif;
+}
+
+.info{
+
+color:  hsl(228, 12%, 48%) ;
+
+
+}
+
+
+.prices{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.new_price{
+color: hsl(158, 36%, 37%);
+    font-size: 40px;
+    font-family:  "Fraunces", serif;
+}
+
+
+.btn{
+    height: 50px;
+    width: 90%;
+    background-color: hsl(158, 36%, 37%);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    margin-top: 30px;
+    /* margin-left: 10px; */
+}
+
+.conatiner_btn{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+/* said.abd.el.aziz.2003@gmail.com */
